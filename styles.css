@@ -1,28 +1,26 @@
 body {
     background-color: rgb(50, 53, 54);
     text-align: center;
+    font-family: verdana;
   }
-  h1 {
+  h1, h2 {
     color: white;
-    
+
   }
   
   p {
       color: white;
-    font-family: verdana;
-    font-size: 20px;
+      font-size: 20px;
   }
   /* unvisited link */
 a:link {
     color: red;
-    font-family: verdana;
     font-size: 20px;
   }
   
   /* visited link */
   a:visited {
     color: rgb(247, 53, 166);
-    font-family: verdana;
     font-size: 20px;
   }
   
