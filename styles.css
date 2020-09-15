@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(50, 53, 54);
+    text-align: center;
+  }
+  h1 {
+    color: white;
+    
+  }
+  
+  p {
+      color: white;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  /* unvisited link */
+a:link {
+    color: red;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(247, 53, 166);
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
